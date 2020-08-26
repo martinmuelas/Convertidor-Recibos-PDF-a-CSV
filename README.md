@@ -10,5 +10,5 @@ Utiliza **Tabula-Py** para extraer las tablas del PDF.
 
 Las medidas para delimitar el área de captura y las columnas se obtienen midiendo las distancias desde los margenes superior e izquierdo del Recibo, medidas en pulgadas, y afectandolo por un coeficiente de 72.
 
-Más detalles en este [blog post](https://www.mmlabs.com.ar/blog/extrayendo-tablas-de-un-pdf/).
+Más detalles en este [blog post](https://www.mmuelas.com/post/2019-11-13_extrayendo_tablas_de_un_pdf/).
 
